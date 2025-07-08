@@ -1604,6 +1604,14 @@ section,
   color: var(--accent-color);
 }
 
+.promo-download{
+  background-color: var(--surface-color);
+  position: relative;
+  padding: 20px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  overflow: hidden;
+}
 /*--------------------------------------------------------------
 # Contact Section
 --------------------------------------------------------------*/
